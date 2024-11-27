@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: cedb527a0be227c4ab0cf53d4b0a3ff8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-15.44.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+    "author": "MOMO_RUI (https://sketchfab.com/hswangrui)"
+
+    "license":
+    "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+
+    "source": "https://sketchfab.com/3d-models/chibialice-dance-52ef31dd48b94fe28c867b7b8fa144b6"
+
+    "title":
+    "ChibiAlice_Dance"
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: 8672352378955064861, guid: cedb527a0be227c4ab0cf53d4b0a3ff8, type: 3}
+  - {fileID: 8649465868742713681, guid: cedb527a0be227c4ab0cf53d4b0a3ff8, type: 3}
+  - {fileID: -7184819803674296287, guid: cedb527a0be227c4ab0cf53d4b0a3ff8, type: 3}
+  textures: []
+  hasSceneData: 1
+  hasAnimationData: 1
+  hasMaterialData: 1
+  hasTextureData: 0
+  animations:
+  - name: Animation
+  _extensions:
+  - name: KHR_materials_unlit
+    supported: 1
+    used: 1
+    required: 0
+  _textures: []
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []
