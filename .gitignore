@@ -72,7 +72,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Store assets
-/[Aa]ssets/EncriptionAsset/*
+/[Aa]ssets/EncryptionAsset/*
+/[Aa]ssets/2D Casual UI/*
 /[Aa]ssets/Fullscreen/*
 /[Aa]ssets/Graphy - Ultimate Stats Monitor/*
 /[Aa]ssets/Plugins/*

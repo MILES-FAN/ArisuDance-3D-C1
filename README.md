@@ -13,6 +13,8 @@ git clone https://github.com/MILES-FAN/ArisuDance-3D-C1.git
 3. Open the ArisuDance-3D-C1 folder as a Unity project.
 
 4. Graphy plugin is required to display the FPS and other information. You can download it from [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/graphy-ultimate-fps-counter-stats-monitor-debugger-105778). Or you can simply remove the Graphy object from the scene. 
+
+   2D Casual UI used in the scene is from [Unity Asset Store](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080). You can download it from the link or replace it with your own UI.
    
    Bgm(Usagi Flap) is excluded from this repository for copyright reasons. You can add your own music to the scene.
 
